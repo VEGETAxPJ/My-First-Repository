@@ -1,0 +1,3 @@
+Name: Ashwel Prince Jospeh Kuppili
+Course: Bsc Computer Science
+about GitHub: Github is a cloud based platform that provides developers with tools for version control, collaboration and project agreement by hosting Git repositories online.
